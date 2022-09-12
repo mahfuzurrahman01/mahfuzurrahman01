@@ -1,6 +1,8 @@
+![I'm a Frontend Web Developer..](https://media-exp1.licdn.com/dms/image/C5616AQFG0FsLlyS-mg/profile-displaybackgroundimage-shrink_350_1400/0/1661941009290?e=1668643200&v=beta&t=de-hl8JG-ks3Yj3ZHWsTK3T14x-bvi1NHQt-JI1IylY)
+
 ### Hi there 👋, <br>I'm **Mahfuzur Rahman**
 #### I'm a Frontend Web Developer..
-![I'm a Frontend Web Developer..](https://cutewallpaper.org/21/developer-wallpaper/100-High-Quality-Desktop-Wallpapers-for-Web-Designers-.png)
+
 
 It's been 1 year I just met with this sector. Now I just love to make new website and also love to fix the bug on a website. But my learning process is ongoing because I truly believe in my strong basics so I'm just improving it.
 
