@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="980" height="340" src='https://media-exp1.licdn.com/dms/image/C5616AQFG0FsLlyS-mg/profile-displaybackgroundimage-shrink_350_1400/0/1661941009290?e=1668643200&v=beta&t=de-hl8JG-ks3Yj3ZHWsTK3T14x-bvi1NHQt-JI1IylY'>
+  <img width="980" height="340" src='https://i.ibb.co/vmSRGtg/Mahfuzur-rahman.png'>
 </p>
 
 <h1 align='center'> Hi there 👋,</h1>
