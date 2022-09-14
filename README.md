@@ -1,5 +1,8 @@
-<p align="center">
+<!--<p align="center">
   <img width="980" height="340" src='https://i.ibb.co/vmSRGtg/Mahfuzur-rahman.png'>
+</p>-->
+<p align="center">
+  <img width="600" height="340" src='https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif'>
 </p>
 
 <h1 align='center'> Hi there 👋,</h1>
@@ -8,6 +11,7 @@
 
 
  <p align='center'>It's been 1 year I just met with this sector. Now I just love to make new website and also love to fix the bug on a website.But my learning process is ongoing because I truly believe in my strong basics so I'm just improving it.</p>
+ 
 
 ## 💫 About Me:
 ✅ I’m currently learning REACT JS<br>✨ I’m looking to collaborate on front-end dev<br>✨ I’m looking for help with Internship/full time job<br>✅ Ask me about JavaScript / HTML/ CSS /Bootstrap 5 / Tailwind CSS<br>📩 How to reach me: mahfuzurrahman01010101@gmail.com
