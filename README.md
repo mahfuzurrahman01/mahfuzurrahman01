@@ -10,7 +10,9 @@
 <p align='center'>I'm a Frontend Web Developer..</p>
 
 
- <p align='center'>It's been 1 year I just met with this sector. Now I just love to make new website and also love to fix the bug on a website.But my learning process is ongoing because I truly believe in my strong basics so I'm just improving it.</p>
+ <p align='center'>I am a junior front-end developer who always wants to get updated with new technology and is
+also energetic and eager to learn new skills. Aiming to actively contribute to the growth of an
+organization where my skills could be utilized to the fullest extent.</p>
  
 
 ## 💫 About Me:
