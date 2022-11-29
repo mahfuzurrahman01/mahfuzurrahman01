@@ -5,7 +5,7 @@
   <img width="600" height="340" src='https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif'>
 </p>
 
-<h1 align='center'> Hi there 👋,</h1>
+<h1 align='center'> Hi there </br> 👋,</h1>
 <h2 align='center'>I'm Mahfuzur Rahman</h2>
 <p align='center'>I'm a Frontend Web Developer..</p>
 
