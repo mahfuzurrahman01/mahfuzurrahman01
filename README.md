@@ -1,6 +1,4 @@
-<!--<p align="center">
-  <img width="980" height="340" src='https://i.ibb.co/vmSRGtg/Mahfuzur-rahman.png'>
-</p>-->
+
 <p align="center">
   <img width="600" height="340" src='https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif'>
 </p>
