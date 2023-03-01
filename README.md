@@ -14,7 +14,7 @@ organization where my skills could be utilized to the fullest extent.</p>
  
 
 ## 💫 About Me:
-✅ I’m currently learning REACT JS<br>✨ I’m looking to collaborate on front-end dev<br>✨ I’m looking for help with Internship/full time job<br>✅ Ask me about JavaScript / HTML/ CSS /Bootstrap 5 / Tailwind CSS<br>📩 How to reach me: mahfuzurrahman01010101@gmail.com
+✅ I’m currently learning NextJS<br>✨ I’m looking to collaborate on front-end dev<br>✅ Ask me about JavaScript/ReactJs<br>📩 How to reach me: mafuzur.rahman032@gmail.com
 
 
 ## 🌐 Socials:
