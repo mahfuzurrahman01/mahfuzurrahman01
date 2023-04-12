@@ -14,7 +14,7 @@ organization where my skills could be utilized to the fullest extent.</p>
  
 
 ## 💫 About Me:
-✅ I’m currently learning NextJS<br>✨ I’m looking to collaborate on front-end dev<br>✅ Ask me about JavaScript/ReactJs<br>📩 How to reach me: mafuzur.rahman032@gmail.com
+✅ I’m currently learning React Native<br>✨ I’m looking to collaborate on front-end dev<br>✅ Ask me about JavaScript/ReactJs/NextJs<br>📩 How to reach me: mafuzur.rahman032@gmail.com
 
 
 ## 🌐 Socials:
