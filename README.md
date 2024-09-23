@@ -5,7 +5,6 @@
 
 <h1 align='center'> Hi there </br> 👋,</h1>
 <h2 align='center'>I'm Mahfuzur Rahman</h2>
-<p align='center'>I'm a Frontend Web Developer..</p>
 
 
  <p align='center'>Passionate Frontend Developer with 1.5+ years of experience crafting engaging UIs and optimizing React Native apps.
