@@ -8,9 +8,9 @@
 <p align='center'>I'm a Frontend Web Developer..</p>
 
 
- <p align='center'>who always wants to get updated with new technology and is
-also energetic and eager to learn new skills. Aiming to actively contribute to the growth of an
-organization where my skills could be utilized to the fullest extent.</p>
+ <p align='center'>Passionate Frontend Developer with 1.5+ years of experience crafting engaging UIs and optimizing React Native apps.
+
+My expertise lies in the MERN stack, but my heart beats for frontend development, particularly in the React ecosystem. For the past year, I've been instrumental in shaping the user experience at Zeigen, contributing to their website and recently delving into mobile development with their React Native team. I'm currently driven by building an innovative app utilizing React Native, aiming to positively impact the lives of millions of young people.</p>
  
 
 ## 💫 About Me:
