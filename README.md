@@ -1,13 +1,7 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ███████╗██╗   ██╗███████╗██╗   ██╗██████╗
-████╗ ████║██╔══██╗██╔════╝██║   ██║╚════██║██║   ██║██╔══██╗
-██╔████╔██║███████║█████╗  ██║   ██║    ██╔╝██║   ██║██████╔╝
-██║╚██╔╝██║██╔══██║██╔══╝  ██║   ██║   ██╔╝ ██║   ██║██╔══██╗
-██║ ╚═╝ ██║██║  ██║██║     ╚██████╔╝   ██║  ╚██████╔╝██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝
-```
+# カイゼン
+*The philosophy of constant improvement.*
 
 ### Senior Full-Stack Engineer · Dhaka, Bangladesh
 
@@ -68,8 +62,6 @@ const mafuzur = {
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-
 
 <div align="center">
 
